@@ -199,7 +199,7 @@ body {
     }
   }
 
-  @media only screen and (max-width: 1119px) {
+  @media only screen and (max-width: 1190px) {
     .wrapper {
         display: block;
 
@@ -213,7 +213,7 @@ body {
 
         header{
             margin: 20px auto;
-            width: 80%;
+            max-width: 400px;
             height: 600px;
             img{
                 width: 100%;
